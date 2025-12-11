@@ -23,7 +23,7 @@
 
 ---
 - 📫 How to reach me **abdulsamadit12@gmail.com**
--  👨‍💻 See my Portfolio at **https://mrabdulsamad-dev.github.io/My_Portfolio/**
+-  👨‍💻 See my Portfolio at **https://mrabdulsamad-dev.github.io/My_Portfolio/home**
 - 💬 Ask me about **Web and App Development!**
 - 🌱 I’m currently learning **GenAI and Web 3.0 technologies**
 - ⚡ Fun fact **I'm a DIY enthusiast, always tinkering with woodworking projects! 🛠️**
