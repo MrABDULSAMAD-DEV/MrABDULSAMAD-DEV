@@ -61,6 +61,6 @@
 
 ### 🔗 Connect 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-samad-abdullah-764293389/)
+[![Connect on LinkedIn](https://www.linkedin.com/in/abdul-samad-abdullah-668495396/)
 
 ---
